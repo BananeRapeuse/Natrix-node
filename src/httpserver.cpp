@@ -4,6 +4,10 @@
 
 #include <httpserver.h>
 
+#include <deque>
+#include <memory>
+#include <vector>
+#include <queue>
 #include <chainparamsbase.h>
 #include <compat.h>
 #include <util.h>
