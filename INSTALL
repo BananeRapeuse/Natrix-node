@@ -1,0 +1,9 @@
+Building Natrix
+
+See doc/readme-qt.rst for instructions on building Natrix-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Natrix.
+
+See doc/build-*.txt for instructions on building natrixd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Natrix.
